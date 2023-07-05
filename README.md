@@ -33,10 +33,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=148&color=ffffff" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=ffffff" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=148&color=ffffff" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=148&color=ffffff" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=148&color=ffffff" />
           
           
           
